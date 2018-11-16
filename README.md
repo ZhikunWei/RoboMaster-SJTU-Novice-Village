@@ -1,13 +1,17 @@
 
-上海交通大学-交龙战队/自由度机器人协会-新人学习路线
+上海交通大学-交龙战队/自由度机器人协会-新人coder学习路线<br>
+**说明：此文档仅提供针对新手coder的学习路线，不包含详细教程，请[百度](www.baidu.com)/[Google](www.google.com)自己遇到的问题，能搜到的问题就不是问题，学会在[CSDN]/[StackOverflow]等等鱼龙混杂的博客中求生存是coder的第一课**<br>
+
+PS: 推荐科学上网工具 [蓝灯/lantern](https://github.com/getlantern/download)，免费版每月500M流量，稳定倒是蛮稳定的，开会可能会暂停。如果想升级专业版，请务必输入我的邀请码296G9N，谢谢
 # 1 Linux
 我们一般使用ubuntu操作系统，ubuntu是基于linux的免费开源桌面PC操作系统，操作简单，界面友好。你可以选择安装双系统或者安装虚拟机
 
 ## 1.1 ubuntu虚拟机
 新手推荐先使用虚拟机，推荐虚拟机软件为VMware Workstation, 交大为学生提供[免费授权的VMAP系列软件](http://vmap.sjtu.edu.cn/)<br>
+镜像文件下载 [Ubuntu Desktop](https://www.ubuntu.com/download)<br>
 
 ## 1.2 ubuntu/window双系统
-有一定了解之后，可以选择在自己的电脑上安装ubuntu/window双系统，[官方安装教程](https://tutorials.ubuntu.com/tutorial/tutorial-create-a-usb-stick-on-windows?_ga=2.147366260.2141779721.1542328276-1363744011.1542328276#0)<br>
+有一定了解之后，可以选择在自己的电脑上安装ubuntu/window双系统，[官方安装教程](https://tutorials.ubuntu.com/tutorial/tutorial-create-a-usb-stick-on-windows?_ga=2.147366260.2141779721.1542328276-1363744011.1542328276#0). PS:有一定几率搞崩电脑，建议先备份重要文件<br>
 
 ## 1.3 初识Ubuntu
 ubuntu[中文入门指南](https://wiki.ubuntu.com.cn/Ubuntu%E6%A1%8C%E9%9D%A2%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97)<br>
