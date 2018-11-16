@@ -4,7 +4,7 @@
 
 PS: 推荐科学上网工具 [蓝灯/lantern](https://github.com/getlantern/download)，免费版每月500M流量，稳定倒是蛮稳定的，开会可能会暂停。如果想升级专业版，请务必输入我的邀请码296G9N，谢谢
 # 1 Linux
-我们一般使用ubuntu操作系统，ubuntu是基于linux的免费开源桌面PC操作系统，操作简单，界面友好。你可以选择安装双系统或者安装虚拟机
+我们一般使用ubuntu操作系统，ubuntu是基于linux的免费开源桌面PC操作系统，操作简单，界面友好。你可以选择安装双系统或者安装虚拟机。如果是计算机相关专业，在不久的将来就会遇到要使用Linux的课程。
 
 ## 1.1 ubuntu虚拟机
 新手推荐先使用虚拟机，推荐虚拟机软件为VMware Workstation, 交大为学生提供[免费授权的VMAP系列软件](http://vmap.sjtu.edu.cn/)<br>
@@ -22,7 +22,7 @@ C++是一门非常常用的编程语言，几乎是一名coder必学科目，C++
 ## 2.1 IDE和编译器
 [win/linux]新手推荐IDE，[codeblocks](http://www.codeblocks.org/downloads) <br>
 [win/linux]进阶推荐——Clion，交大提供jetbrain全套正版授权软件，下载安装[JetBrains All in One](http://lic.si.sjtu.edu.cn/Softs/good/id/1625)，
-其中包括Clion. 使用这个软件需要学习使用[cmake编译](https://www.cnblogs.com/cv-pr/p/6206921.html)<br>
+其中包括Clion. 使用这个软件需要学习使用[cmake](https://www.cnblogs.com/cv-pr/p/6206921.html), 推荐在Linux中使用<br>
 [win]如果需要安装C++编译器，[在这里](http://www.mingw-w64.org/doku.php/download)<br>
 
 ## 2.1 初识C++
