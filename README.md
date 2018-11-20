@@ -2,7 +2,7 @@
 # 上海交通大学-交龙战队/自由度机器人-新人coder学习路线<br>
 **说明：此文档仅提供针对新手coder的学习路线，不包含详细教程，请[百度](www.baidu.com)/[Google](www.google.com)自己遇到的问题，能搜到的问题就不是问题，学会在[CSDN]/[StackOverflow]等等鱼龙混杂的博客中求生存是coder的第一课**<br>
 
-PS: 推荐科学上网工具 [蓝灯/lantern](https://github.com/getlantern/download)，免费版每月500M流量，稳定倒是蛮稳定的，开会可能会暂停。如果想升级专业版，请务必输入我的邀请码296G9N，谢谢
+PS: 如果需要科学上网，推荐工具 [蓝灯/lantern](https://github.com/getlantern/download)，免费版每月500M流量，稳定倒是蛮稳定的，开会可能会暂停。如果想升级专业版，请务必输入我的邀请码296G9N，谢谢
 ## 1 Linux
 我们一般使用ubuntu操作系统，ubuntu是基于linux的免费开源桌面PC操作系统，操作简单，界面友好。你可以选择安装双系统或者安装虚拟机。如果是计算机相关专业，在不久的将来就会遇到要使用Linux的课程。
 
