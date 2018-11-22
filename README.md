@@ -16,6 +16,8 @@ PS: 如果需要科学上网，推荐工具 [蓝灯/lantern](https://github.com/
 ### 1.3 初识Ubuntu
 ubuntu[中文入门指南](https://wiki.ubuntu.com.cn/Ubuntu%E6%A1%8C%E9%9D%A2%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97)<br>
 
+** 主线任务（ubuntu）：安装好ubuntu。可选任务：安装windows/ubuntu 双系统 **
+
 ## 2 C++
 C++是一门非常常用的编程语言，几乎是一名coder必学科目，C++博大精深，“精通C++”无疑是coder最装bi的自我介绍。
 
@@ -32,19 +34,21 @@ C++从头学起，[C++新手村教程](http://www.runoob.com/cplusplus/cpp-tutor
 了解一定C++基础之后，应当学习一些算法，交大有一个代码在线[评测网站](https://acm.sjtu.edu.cn/OnlineJudge/problems)，
 其中提供了非常多难易不等的题目，它的题目列表可以按照提交通过率排序，推荐新手从通过率高的题目做起<br>
 
-**前置任务（零）- 仅针对C++无基础同学 <br>
-  在交大OJ上完成任意5道题（1000除外）**
+**支线任务（一）- 仅针对C++无基础或弱基础同学 <br>
+  在交大OJ上完成任意10道题 **
 
 ### 2.3 opencv
 [安装教程](https://docs.opencv.org/master/d7/d9f/tutorial_linux_install.html)，安装3.3.0及其以上版本
 
+**主线任务（opencv）：配置好opencv **
+
 ## 3 摄像头使用
 示例代码：[单摄像头使用](https://github.com/ZhikunWei/0-camera-usage)
 
-** 任务（一）1 单摄像头使用 <br>
+** 任务（单摄像头） 单摄像头使用 <br>
 任务目标：在电脑上显示摄像头画面，并录制一段视频文件 **
 
-** 任务（二）2双摄像头使用 <br>
+** 任务（双摄像头）双摄像头使用 <br>
 任务目标：在电脑上显示双摄像头画面，并录制视频文件**
 
 
