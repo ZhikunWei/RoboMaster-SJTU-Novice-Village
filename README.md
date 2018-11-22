@@ -35,7 +35,7 @@ C++从头学起，[C++新手村教程](http://www.runoob.com/cplusplus/cpp-tutor
 其中提供了非常多难易不等的题目，它的题目列表可以按照提交通过率排序，推荐新手从通过率高的题目做起<br>
 
 **支线任务（一）- 仅针对C++无基础或弱基础同学 <br>
-  在交大OJ上完成任意10道题 **
+  在交大OJ上完成任意10道题**
 
 ### 2.3 opencv
 [安装教程](https://docs.opencv.org/master/d7/d9f/tutorial_linux_install.html)，安装3.3.0及其以上版本
