@@ -45,6 +45,7 @@ C++从头学起，[C++新手村教程](http://www.runoob.com/cplusplus/cpp-tutor
 ## 3 摄像头使用
 示例代码：[摄像头使用](https://github.com/ZhikunWei/SJTU_VISION_GROUP)<br>
 相机驱动[下载](https://github.com/ZhikunWei/SJTU_VISION_GROUP/tree/master/%E7%9B%B8%E6%9C%BA%E9%A9%B1%E5%8A%A8)
+相机在C楼105，要使用时联系我
 
 ### 任务（单摄像头） 单摄像头使用 <br>
 任务目标：在电脑上显示摄像头画面，并录制一段视频文件
