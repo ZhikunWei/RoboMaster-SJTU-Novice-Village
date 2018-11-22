@@ -4,7 +4,7 @@
 
 PS: 如果需要科学上网，推荐工具 [蓝灯/lantern](https://github.com/getlantern/download)，免费版每月500M流量，稳定倒是蛮稳定的，开会可能会暂停。如果想升级专业版，请务必输入我的邀请码296G9N，谢谢
 ## 1 Linux
-我们一般使用ubuntu操作系统，ubuntu是基于linux的免费开源桌面PC操作系统，操作简单，界面友好。你可以选择安装双系统或者安装虚拟机。如果是计算机相关专业，在不久的将来就会遇到要使用Linux的课程。
+我们一般使用ubuntu操作系统，ubuntu是基于linux的免费开源桌面PC操作系统，操作简单，界面友好。你可以选择安装虚拟机或者安装双系统，如果是第一次接触linux的话就先安装虚拟机。如果是计算机相关专业，在不久的将来就会遇到要使用Linux的课程。
 
 ### 1.1 ubuntu虚拟机
 新手推荐先使用虚拟机，推荐虚拟机软件为VMware Workstation, 交大为学生提供[免费授权的VMAP系列软件](http://vmap.sjtu.edu.cn/)<br>
@@ -31,5 +31,8 @@ C++从头学起，[C++新手村教程](http://www.runoob.com/cplusplus/cpp-tutor
 ### 2.2 C++算法实战
 了解一定C++基础之后，应当学习一些算法，交大有一个代码在线[评测网站](https://acm.sjtu.edu.cn/OnlineJudge/problems)，
 其中提供了非常多难易不等的题目，它的题目列表可以按照提交通过率排序，推荐新手从通过率高的题目做起<br>
+
+### 2.3 opencv
+[安装教程](https://docs.opencv.org/master/df/d65/tutorial_table_of_content_introduction.html)
 
 ## 待续
