@@ -20,10 +20,10 @@ ubuntu[中文入门指南](https://wiki.ubuntu.com.cn/Ubuntu%E6%A1%8C%E9%9D%A2%E
 C++是一门非常常用的编程语言，几乎是一名coder必学科目，C++博大精深，“精通C++”无疑是coder最装bi的自我介绍。
 
 ### 2.1 IDE和编译器
-[win/linux]新手推荐IDE，[codeblocks](http://www.codeblocks.org/downloads) <br>
-[win/linux]进阶推荐——Clion，交大提供jetbrain全套正版授权软件，下载安装[JetBrains All in One](http://lic.si.sjtu.edu.cn/Softs/good/id/1625)，
+新手推荐c++的IDE，[codeblocks](http://www.codeblocks.org/downloads) <br>
+进阶推荐——Clion，交大提供jetbrain全套正版授权软件，下载安装[JetBrains All in One](http://lic.si.sjtu.edu.cn/Softs/good/id/1625)，
 其中包括Clion. 使用这个软件需要学习使用[cmake](https://www.cnblogs.com/cv-pr/p/6206921.html), 推荐在Linux中使用<br>
-[win]如果需要安装C++编译器，[在这里](http://www.mingw-w64.org/doku.php/download)<br>
+如果需要在windows下安装C++编译器，[在这里](http://www.mingw-w64.org/doku.php/download)<br>
 
 ### 2.1 初识C++
 C++从头学起，[C++新手村教程](http://www.runoob.com/cplusplus/cpp-tutorial.html)
@@ -32,7 +32,20 @@ C++从头学起，[C++新手村教程](http://www.runoob.com/cplusplus/cpp-tutor
 了解一定C++基础之后，应当学习一些算法，交大有一个代码在线[评测网站](https://acm.sjtu.edu.cn/OnlineJudge/problems)，
 其中提供了非常多难易不等的题目，它的题目列表可以按照提交通过率排序，推荐新手从通过率高的题目做起<br>
 
+**前置任务（零）- 仅针对C++无基础同学 <br>
+  在交大OJ上完成任意5道题（1000除外）**
+
 ### 2.3 opencv
-[安装教程](https://docs.opencv.org/master/df/d65/tutorial_table_of_content_introduction.html)
+[安装教程](https://docs.opencv.org/master/d7/d9f/tutorial_linux_install.html)，安装3.3.0及其以上版本
+
+## 3 摄像头使用
+示例代码：[单摄像头使用](https://github.com/ZhikunWei/0-camera-usage)
+
+** 任务（一）1 单摄像头使用 <br>
+任务目标：在电脑上显示摄像头画面，并录制一段视频文件 **
+
+** 任务（二）2双摄像头使用 <br>
+任务目标：在电脑上显示双摄像头画面，并录制视频文件**
+
 
 ## 待续
