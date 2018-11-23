@@ -7,8 +7,8 @@ PS: 如果需要科学上网，推荐工具 [蓝灯/lantern](https://github.com/
 我们一般使用ubuntu操作系统，ubuntu是基于linux的免费开源桌面PC操作系统，操作简单，界面友好。你可以选择安装虚拟机或者安装双系统，如果是第一次接触linux的话就先安装虚拟机。如果是计算机相关专业，在不久的将来就会遇到要使用Linux的课程。
 
 ### 1.1 ubuntu虚拟机
-新手推荐先使用虚拟机，推荐虚拟机软件为VMware Workstation, 交大为学生提供[免费授权的VMAP系列软件](http://vmap.sjtu.edu.cn/)<br>
-镜像文件下载 [Ubuntu Desktop](https://www.ubuntu.com/download)<br>
+新手推荐先使用虚拟机，推荐虚拟机软件为VMware Workstation, 交大为学生提供[免费授权的VMAP系列软件](http://vmap.sjtu.edu.cn/) ，简单申请之后便可以免费使用最新版的Vmware Workstation pro<br>
+镜像文件下载 [Ubuntu Desktop 18.04](https://www.ubuntu.com/download/desktop)<br>
 
 ### 1.2 ubuntu/window双系统
 有一定了解之后，可以选择在自己的电脑上安装ubuntu/window双系统，[官方安装教程](https://tutorials.ubuntu.com/tutorial/tutorial-create-a-usb-stick-on-windows?_ga=2.147366260.2141779721.1542328276-1363744011.1542328276#0). PS:有一定几率搞崩电脑，建议先备份重要文件<br>
