@@ -38,7 +38,7 @@ C++从头学起，[C++新手村教程](http://www.runoob.com/cplusplus/cpp-tutor
   在交大OJ上完成任意10道题
 
 ### 2.3 opencv
-[安装教程](https://docs.opencv.org/master/d7/d9f/tutorial_linux_install.html)，安装3.3.0及其以上版本
+[安装教程](https://docs.opencv.org/master/d7/d9f/tutorial_linux_install.html)，安装3.3.0及其以上版本，不要安装4版本
 
 ### 主线任务（opencv）：配置好opencv
 
