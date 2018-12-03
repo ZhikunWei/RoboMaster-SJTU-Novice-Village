@@ -57,6 +57,7 @@ C++从头学起，[C++新手村教程](http://www.runoob.com/cplusplus/cpp-tutor
 
 ## 4 自瞄基本代码理解
 [自瞄基本框架](https://github.com/ZhikunWei/SJTU_VISION_GROUP/tree/master/stereovision_from_cameras_and_videoFiles)，此版代码仅包括自瞄基本框架，请通读该份代码以了解自瞄流程。<br>
-装甲板视频文件[下载](https://github.com/ZhikunWei/SJTU_VISION_GROUP/tree/master/videos)，用于运行程序，帮助理解。<br>
+带灯柱装甲板视频文件[下载](https://github.com/ZhikunWei/SJTU_VISION_GROUP/tree/master/videos)，用于运行程序，帮助理解。<br>
+### 任务 通读代码，理解流程
 
 # 待续
