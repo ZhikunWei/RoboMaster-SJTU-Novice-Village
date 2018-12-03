@@ -1,6 +1,6 @@
 
-# 上海交通大学-交龙战队/自由度机器人-新人coder学习路线<br>
-**说明：此文档仅提供针对新手coder的学习路线，不包含详细教程，请[百度](www.baidu.com)/[Google](www.google.com)自己遇到的问题，能搜到的问题就不是问题，学会在[CSDN]/[StackOverflow]等等鱼龙混杂的博客中求生存是coder的第一课**<br>
+# 上海交通大学-交龙战队/自由度机器人-视觉部新手村<br>
+**说明：此文档仅提供针对视觉部零基础新手coder的学习路线，不包含详细教程，请[百度](www.baidu.com)/[Google](www.google.com)自己遇到的问题，能搜到的问题就不是问题，学会在[CSDN]/[StackOverflow]等等鱼龙混杂的博客中求生存是coder的第一课**<br>
 
 PS: 如果需要科学上网，推荐工具 [蓝灯/lantern](https://github.com/getlantern/download)，免费版每月500M流量，(北京开大会的时候可能会暂停)。如果想购买专业版，请务必输入我的邀请码296G9N，谢谢
 ## 1 Linux
@@ -26,6 +26,7 @@ C++是一门非常常用的编程语言，几乎是一名coder必学科目，C++
 进阶推荐——Clion，交大提供jetbrain全套正版授权软件，下载安装[JetBrains All in One](http://lic.si.sjtu.edu.cn/Softs/good/id/1625)，
 其中包括Clion. 使用这个软件需要学习使用[cmake](https://www.cnblogs.com/cv-pr/p/6206921.html), 推荐在Linux中使用，适合较大型工程代码编写<br>
 ps:这个软件还包括jetbrain为其他语言开发的IDE，如pycharm适用python，idea适用java，还有很多其他的。<br>
+直接使用命令行编译也是可以的，但是写代码的时候还是要有一个IDE要方便一些。
 
 
 ### 2.1 初识C++
