@@ -61,4 +61,5 @@ C++从头学起，[C++新手村教程](http://www.runoob.com/cplusplus/cpp-tutor
 带灯柱装甲板视频文件[下载](https://github.com/ZhikunWei/SJTU_VISION_GROUP/tree/master/videos)，用于运行程序，帮助理解。<br>
 ### 任务 通读代码，理解流程
 
-# 待续
+## 4 调试代码用视频
+  下载地址 https://github.com/ZhikunWei/SJTU-TPP-videos
