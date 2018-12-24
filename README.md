@@ -9,7 +9,7 @@ PS: 如果需要科学上网，推荐工具 [蓝灯/lantern] https://github.com/
 ### 1.1 ubuntu虚拟机
 [win]新手推荐先使用虚拟机，推荐虚拟机软件为VMware Workstation, 交大为学生提供[免费授权的VMAP系列软件] http://vmap.sjtu.edu.cn  ，简单申请之后便可以免费使用最新版的Vmware Workstation pro 15 (绿色的那个)<br>
 创建虚拟机需要操作系统镜像文件，ubuntu镜像文件下载 [Ubuntu Desktop 18.04] https://www.ubuntu.com/download/desktop <br>
-[mac]可以使用parallel desktop破解版，百度云盘 链接:https://pan.baidu.com/s/1yMWe8t5MddvICO6I-Wmoug 提取码:3i12     
+[mac]可以使用parallel desktop破解版，百度云盘 链接:https://pan.baidu.com/s/1yMWe8t5MddvICO6I-Wmoug  提取码:3i12     
 
 ### 1.2 ubuntu/window双系统
 有一定了解之后，可以选择在自己的电脑上安装ubuntu/window双系统，[Ubuntu官方安装教程](https://tutorials.ubuntu.com/tutorial/tutorial-create-a-usb-stick-on-windows?_ga=2.147366260.2141779721.1542328276-1363744011.1542328276#0). PS:有一定几率搞崩电脑，建议先备份全硬盘的重要文件<br>
