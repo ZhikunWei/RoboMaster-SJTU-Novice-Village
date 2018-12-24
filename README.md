@@ -68,3 +68,8 @@ C++从头学起，[C++新手村教程] http://www.runoob.com/cplusplus/cpp-tutor
   
 ## 6 自瞄代码模块化，所有修改都在这个仓库下进行，每个人开一个branch，经过测试的代码可以merge到master
    https://github.com/ZhikunWei/modules_basic_all
+   
+## 7 比赛真实视频
+链接：https://pan.baidu.com/s/1opOb3WVjmMTBCDxXq865MQ  <br>
+提取码：u7e1 
+
