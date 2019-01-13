@@ -73,3 +73,5 @@ C++从头学起，[C++新手村教程] http://www.runoob.com/cplusplus/cpp-tutor
 链接：https://pan.baidu.com/s/1opOb3WVjmMTBCDxXq865MQ  <br>
 提取码：u7e1 
 
+## 8寒假集训
+自瞄版本 https://github.com/ZhikunWei/SJTU-RM2019-Winter-AotuAiming
