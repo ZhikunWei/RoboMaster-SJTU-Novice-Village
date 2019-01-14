@@ -46,29 +46,9 @@ C++从头学起，[C++新手村教程] http://www.runoob.com/cplusplus/cpp-tutor
 
 ### 主线任务（opencv）：配置好opencv
 
-## 3 摄像头使用
-示例代码：[摄像头使用] https://github.com/ZhikunWei/SJTU_VISION_GROUP ，里面的注意事项txt提供了一些常见错误的解决办法。<br>
-相机驱动[下载](https://github.com/ZhikunWei/SJTU_VISION_GROUP/tree/master/%E7%9B%B8%E6%9C%BA%E9%A9%B1%E5%8A%A8)，自己电脑上的选pc文件夹下的文件。
-相机在C楼105，要使用时联系我或直接前往
-
-### 任务（单摄像头） 单摄像头使用 <br>
-任务目标：在电脑上显示摄像头画面，并录制一段视频文件
-
-### 任务（双摄像头）双摄像头使用 <br>
-任务目标：在电脑上显示双摄像头画面，并录制视频文件
-
-
-## 4 自瞄基本代码理解
-[自瞄基本框架](https://github.com/ZhikunWei/SJTU_VISION_GROUP/tree/master/stereovision_from_cameras_and_videoFiles)，此版代码仅包括自瞄基本框架，请通读该份代码以了解自瞄流程。<br>
-带灯柱装甲板视频文件[下载](https://github.com/ZhikunWei/SJTU_VISION_GROUP/tree/master/videos)，用于运行程序，帮助理解。<br>
-### 任务 通读代码，理解流程
-
 ## 5 调试代码用视频,包含各个方向以及各种运动方式
   下载地址 https://github.com/ZhikunWei/SJTU-TPP-videos
   
-## 6 自瞄代码模块化，所有修改都在这个仓库下进行，每个人开一个branch，经过测试的代码可以merge到master
-   https://github.com/ZhikunWei/modules_basic_all
-   
 ## 7 比赛真实视频
 链接：https://pan.baidu.com/s/1opOb3WVjmMTBCDxXq865MQ  <br>
 提取码：u7e1 
