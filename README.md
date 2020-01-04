@@ -1,10 +1,10 @@
 
 # 上海交通大学-交龙战队/自由度机器人-视觉部新手村<br>
-**说明：此文档仅提供针对视觉部零基础新手coder的学习路线，不包含详细教程，请[百度](www.baidu.com)/[Google](www.google.com)自己遇到的问题，能搜到的问题就不是问题，学会在[CSDN]/[StackOverflow]等等鱼龙混杂的博客中求生存是coder的第一课**<br>
+**说明：此文档仅提供针对视觉部零基础新手coder的学习路线，不包含详细教程，请[百度](www.baidu.com)/[Google](www.google.com)/[必应](cn.bing.com)自己遇到的问题，能搜到的问题就不是问题，学会在[CSDN]/[StackOverflow]等等鱼龙混杂的博客中求生存是coder的第一课**<br>
 
-PS: 如果需要科学上网，推荐工具 [蓝灯/lantern] https://github.com/getlantern/download 免费版每月500M流量，(北京开大会的时候可能会暂停)。如果想购买专业版，请务必输入我的邀请码296G9N，谢谢。也有其他的vpn可以自己去探索。
+PS: 如果需要科学上网，推荐工具 [蓝灯/lantern] https://github.com/getlantern/download 免费版每月500M流量，。如果想购买专业版，请务必输入我的邀请码296G9N，谢谢。也有其他的vpn可以自己去探索。
 ## 1 Linux
-我们一般使用ubuntu操作系统，ubuntu是基于linux的免费开源桌面PC操作系统，操作简单，界面友好。你可以选择安装虚拟机或者安装双系统，如果是第一次接触linux的话就先安装虚拟机。如果是计算机相关专业，在不久的将来就会遇到要使用Linux的课程。
+一般使用ubuntu操作系统，ubuntu是基于linux的免费开源桌面PC操作系统，操作简单，界面友好。可以选择安装虚拟机或者安装双系统，如果是第一次接触linux推荐先安装虚拟机。如果是计算机相关专业，在不久的将来就会遇到要使用Linux的课程。
 
 ### 1.1 ubuntu虚拟机
 [win]新手推荐先使用虚拟机，推荐虚拟机软件为VMware Workstation, 交大为学生提供[免费授权的VMAP系列软件] http://vmap.sjtu.edu.cn  ，简单申请之后便可以免费使用最新版的Vmware Workstation pro 15 (绿色的那个)<br>
@@ -20,7 +20,7 @@ ubuntu[中文入门指南] https://wiki.ubuntu.com.cn/Ubuntu%E6%A1%8C%E9%9D%A2%E
 ### 主线任务（ubuntu）：安装好ubuntu18.04。可选任务：安装windows/ubuntu 双系统
 
 ## 2 C++
-C++是一门非常常用的编程语言，几乎是一名coder必学科目，C++博大精深，“精通C++”无疑是coder最装bi的自我介绍。
+C++是一门非常常用的编程语言，是一名coder必学科目。
 
 ### 2.1 IDE和编译器
 新手刚接触C++推荐的IDE，[codeblocks] http://www.codeblocks.org/downloads ，可用于日常小代码编写，如做OJ题目、编程小作业。如果需要在windows下安装C++编译器，[在这里] http://www.mingw-w64.org/doku.php/download  <br>
@@ -42,16 +42,8 @@ C++从头学起，[C++新手村教程] http://www.runoob.com/cplusplus/cpp-tutor
   在交大OJ上完成任意10道题
 
 ### 2.3 opencv
-[安装教程] https://docs.opencv.org/master/d7/d9f/tutorial_linux_install.html ，安装3.3.0及其以上版本，不要安装4版本
+[安装教程] https://docs.opencv.org/master/d7/d9f/tutorial_linux_install.html ，安装3.3.0及其以上版本，暂时不要安装4版本
 
 ### 主线任务（opencv）：配置好opencv
 
-## 5 调试代码用视频,包含各个方向以及各种运动方式
-  下载地址 https://github.com/ZhikunWei/SJTU-TPP-videos
-  
-## 7 比赛真实视频
-链接：https://pan.baidu.com/s/1opOb3WVjmMTBCDxXq865MQ  <br>
-提取码：u7e1 
 
-## 8寒假集训
-自瞄版本 https://github.com/ZhikunWei/sjtu_rm2019_winter_version
