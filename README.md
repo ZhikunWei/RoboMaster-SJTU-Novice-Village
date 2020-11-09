@@ -2,7 +2,7 @@
 # 上海交通大学-交龙战队/自由度机器人-视觉部新手村<br>
 **说明：此文档仅提供针对视觉部零基础新手coder的学习路线，不包含详细教程，请[百度](www.baidu.com)/[Google](www.google.com)/[必应](cn.bing.com)自己遇到的问题，能搜到的问题就不是问题，学会在[CSDN]/[StackOverflow]等等鱼龙混杂的博客中求生存是coder的第一课**<br>
 
-PS: 如果需要科学上网，推荐工具 [蓝灯/lantern] https://github.com/getlantern/download 免费版每月500M流量，。如果想购买专业版，请务必输入我的邀请码296G9N，谢谢。也有其他的vpn可以自己去探索。
+
 ## 1 Linux
 一般使用ubuntu操作系统，ubuntu是基于linux的免费开源桌面PC操作系统，操作简单，界面友好。可以选择安装虚拟机或者安装双系统，如果是第一次接触linux推荐先安装虚拟机。如果是计算机相关专业，在不久的将来就会遇到要使用Linux的课程。
 
